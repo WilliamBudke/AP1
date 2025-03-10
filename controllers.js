@@ -40,3 +40,4 @@ const deleteUser = (req, res) => {
 };
 
 module.exports = { getUsers, addUser, updateUser, deleteUser };
+>>>>>>> ebeedc8 (Atividades avaliativa parte 1 e 2)
